@@ -6,7 +6,7 @@ Node.js - v16.10.0 or newer
 Tailwindcss
 Terminal - In order to run Nuxt commands
 
-#Usage
+# Usage
 Start the development server on http://localhost:3000
 
     npm run dev

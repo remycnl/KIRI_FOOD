@@ -31,6 +31,6 @@ Locally preview production build:
 
     npm run preview
 
-Looking for this line and ctrl + mouse left on it :
+Looking for this line and ctrl + left mouse on it :
 
-    Listening http://[::]:3000
+    Listening http://[::]:3000              #click on it -> ctrl + left mouse

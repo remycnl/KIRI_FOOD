@@ -13,6 +13,10 @@ Clone the project repository:
 
     git clone git@github.com:remycnl/KIRI_FOOD.git
     
+Enter into the repository:
+
+    cd KIRI_FOOD
+    
 Install the dependencies:
 
     npm install

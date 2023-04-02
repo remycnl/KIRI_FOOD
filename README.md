@@ -9,14 +9,22 @@ Tailwindcss
 Terminal - In order to run Nuxt commands
 
 # Usage
-Clone the project repository
+Clone the project repository:
 
     git clone git@github.com:remycnl/KIRI_FOOD.git
+    
+Install the dependencies:
 
-Start the development server on http://localhost:3000
+    npm install
+    
+Build the application for production:
 
-    npm run dev
+    npm run build
+    
+Locally preview production build:
 
-Look for this line and ctrl + mouse left on it :
+    npm run preview
 
-    > Local:    http://localhost:3001/
+Looking for this line and ctrl + mouse left on it :
+
+    Listening http://[::]:3000

@@ -160,7 +160,7 @@
                           <img src="/img/chiliconcarne.jpeg" alt="chiliconcarne" class="w-full h-32 sm:h-48 object-cover">
                           <div class="m-4">
                               <span class="font-bold">Chili con carne</span>
-                              <span class="block text-gray-500 text-sm">Recipe by Jean-Loup</span>
+                              <span class="block text-gray-500 text-sm">Recipe by Ingrid</span>
                           </div>
                           <div class="badge">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 inline-block">

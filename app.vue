@@ -76,7 +76,7 @@
 
                   <div class="mt-8 mb-8 grid lg:grid-cols-3 gap-10">
                       <!-- Latest cards go here -->
-                      <div class="card hover:shadow-lg">
+                      <div class="card hover:shadow-xl transform hover:-translate-y-1 transition-all ease-in-out duration-300">
                           <img src="/img/stew.jpg" alt="stew" class="w-full h-32 sm:h-48 object-cover">
                           <div class="m-4">
                               <span class="font-bold">Beef Chili Stew</span>
@@ -90,7 +90,7 @@
                           </div>
                       </div>
 
-                      <div class="card hover:shadow-lg">
+                      <div class="card hover:shadow-xl transform hover:-translate-y-1 transition-all ease-in-out duration-300">
                           <img src="/img/noodles.jpg" alt="noodles" class="w-full h-32 sm:h-48 object-cover">
                           <div class="m-4">
                               <span class="font-bold">Veg Noodles</span>
@@ -104,7 +104,7 @@
                           </div>
                       </div>
 
-                      <div class="card hover:shadow-lg">
+                      <div class="card hover:shadow-xl transform hover:-translate-y-1 transition-all ease-in-out duration-300">
                           <img src="/img/burger.jpg" alt="burger" class="w-full h-32 sm:h-48 object-cover">
                           <div class="m-4">
                               <span class="font-bold">Burger with Saint Nectaire cheese and grilled peppers</span>
@@ -128,7 +128,7 @@
 
                   <div class="mt-8 mb-8 grid lg:grid-cols-3 gap-10">
                       <!-- Popular cards go here -->
-                      <div class="card hover:shadow-lg">
+                      <div class="card hover:shadow-xl transform hover:-translate-y-1 transition-all ease-in-out duration-300">
                           <img src="/img/fries.jpg" alt="fries" class="w-full h-32 sm:h-48 object-cover">
                           <div class="m-4">
                               <span class="font-bold">Sweet potato fries</span>
@@ -142,7 +142,7 @@
                           </div>
                       </div>
 
-                      <div class="card hover:shadow-lg">
+                      <div class="card hover:shadow-xl transform hover:-translate-y-1 transition-all ease-in-out duration-300">
                           <img src="/img/macarons.jpeg" alt="macarons" class="w-full h-32 sm:h-48 object-cover">
                           <div class="m-4">
                               <span class="font-bold">Macarons</span>
@@ -156,7 +156,7 @@
                           </div>
                       </div>
 
-                      <div class="card hover:shadow-lg">
+                      <div class="card hover:shadow-xl transform hover:-translate-y-1 transition-all ease-in-out duration-300">
                           <img src="/img/chiliconcarne.jpeg" alt="chiliconcarne" class="w-full h-32 sm:h-48 object-cover">
                           <div class="m-4">
                               <span class="font-bold">Chili con carne</span>

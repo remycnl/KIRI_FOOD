@@ -17,7 +17,7 @@
 
                   <div class="flex justify-between items-center">
                       <h1 class="font-bold uppercase p-4 border-b border-gray-100">
-                          <a href="/" class="hover:text-gray-700">KiRi Food</a>
+                          <a href="/" class="hover:text-gray-800">KiRi Food</a>
                       </h1>
                       <div class="px-4 cursor-pointer md:hidden" id="logomenu">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6">
